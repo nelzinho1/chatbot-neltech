@@ -4,7 +4,7 @@ import os
 def processar_resposta(resposta, nome):
   if resposta == '1':
     print(
-      f'{os.linesep}{nome}, Acredito que sim meu amigo, liga ja aqui nos temos os melhores preços (98) 999720433.{os.linesep}'
+      f'{os.linesep}{nome}, Acredito que sim meu amigo, liga ja aqui nos temos os melhores preços (98) 99999-9999.{os.linesep}'
     )
   elif resposta == '2':
     print(
